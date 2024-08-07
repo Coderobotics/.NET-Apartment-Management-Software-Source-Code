@@ -28,6 +28,6 @@ Apartment Express is an end-to-end solution for small to large size apartments. 
 <li>Price Lists</li>
 <li>Printing Reports</li>
 <li>SMS</li>
-
+</ul>
 <b>More details and download source code</b><br>
 <b>https://www.aspscriptsonline.com/product/apartment-management-software/</b>
